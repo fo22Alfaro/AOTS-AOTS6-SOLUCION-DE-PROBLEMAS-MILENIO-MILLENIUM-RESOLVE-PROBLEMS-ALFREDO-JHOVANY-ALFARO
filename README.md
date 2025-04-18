@@ -33,3 +33,4 @@ Cuando utilices este material en otros trabajos, por favor cita correctamente:
 
 ## Contacto
 - Correo electrónico: [fo2267725@gmail.com](mailto:fo2267725@gmail.com)
+[7 PROBLEMAS RESUELTOS.docx](https://github.com/user-attachments/files/19816364/7.PROBLEMAS.RESUELTOS.docx)
