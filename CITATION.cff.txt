@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo, por favor cita el proyecto usando la referencia siguiente."
+authors:
+  - family-names: "Alfaro García"
+    given-names: "Alfredo Jhovany"
+    orcid: "https://orcid.org/0000-0002-1825-0097"
+title: "Resolución de los 7 Problemas del Milenio desde el modelo Ontológico AOTS⁶"
+version: "1.0.0"
+date-released: 2025-04-19
+url: "https://github.com/fo22Alfaro/resolucion-millennium-aots6"
+repository-code: "https://github.com/fo22Alfaro/resolucion-millennium-aots6"
+license: "CC0-1.0"
