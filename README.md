@@ -5,7 +5,14 @@ Solución a los 7 Problemas Millennium desde el modelo ontológico AOTS⁶, por 
 **Autor:** Alfredo Jhovany Alfaro García  
 **Fecha de publicación:** 2025  
 **Enlace al repositorio:** [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)  
-**Licencia:** [CC0 - Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**Este trabajo está protegido bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
+
+© Alfredo Jhovany Alfaro García, 2025. Todos los derechos reservados.
+
+##Licencia: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Queda prohibida su reproducción, transformación, explotación comercial o creación de obras derivadas sin autorización expresa del autor.
 
 ## Descripción
 Este proyecto presenta la **resolución de los 7 Problemas del Milenio** propuestos por el **Clay Mathematics Institute** a través del modelo **Ontológico AOTS⁶**. El modelo AOTS⁶ es una integración toroidal de diferentes disciplinas científicas, aplicando principios cuánticos y filosóficos a problemas complejos de matemáticas y física.
