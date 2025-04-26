@@ -6,11 +6,11 @@ Solución a los 7 Problemas Millennium desde el modelo ontológico AOTS⁶, por 
 **Fecha de publicación:** 2025  
 **Enlace al repositorio:** [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)  
 
-**Este trabajo está protegido bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
+Este trabajo está protegido bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
 
 © Alfredo Jhovany Alfaro García, 2025. Todos los derechos reservados.
 
-##Licencia: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Licencia: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Queda prohibida su reproducción, transformación, explotación comercial o creación de obras derivadas sin autorización expresa del autor.
 
