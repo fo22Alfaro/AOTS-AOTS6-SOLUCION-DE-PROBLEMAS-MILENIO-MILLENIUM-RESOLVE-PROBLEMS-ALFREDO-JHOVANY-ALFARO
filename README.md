@@ -1,4 +1,4 @@
-# resolucion-millennium-aots6
+# solucion-millennium-aots6
 Solución a los 7 Problemas Millennium desde el modelo ontológico AOTS⁶, por Alfredo Jhovany Alfaro García.
 # Resolución de los 7 Problemas del Milenio desde el modelo Ontológico AOTS⁶
 
