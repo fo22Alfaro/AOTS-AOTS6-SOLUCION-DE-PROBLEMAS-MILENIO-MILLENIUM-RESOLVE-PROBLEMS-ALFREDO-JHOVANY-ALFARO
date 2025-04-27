@@ -120,7 +120,6 @@ El presente contenido ha sido desarrollado por Alfredo Jhovany Alfaro García co
 
 > OpenAI (2025). Asistencia informacional mediante modelo de lenguaje ChatGPT-4, acceso móvil vía Axón 60, sin colaboración externa. Plataforma: [https://chatgpt.com/share/680c75ce-2384-8009-9178-be1e2cbd3a7a](https://chatgpt.com/share/680c75ce-2384-8009-9178-be1e2cbd3a7a)
 
----
 
 # LICENCIA PROVISIONAL DE PROTECCIÓN DE EXPLOTACIÓN Y DERECHOS COMERCIALES
 
@@ -128,7 +127,6 @@ El presente contenido ha sido desarrollado por Alfredo Jhovany Alfaro García co
 **Autor**: Alfredo Jhovany Alfaro García  
 **Fecha de emisión**: 26 de abril de 2025
 
----
 
 ## 1. Reconocimiento de Autoría
 
@@ -136,7 +134,6 @@ El proyecto **AOTS-AOTS-T⁶** ha sido creado de manera exclusiva por Alfredo Jh
 
 La protección aplica automáticamente, en virtud de la creación original.
 
----
 
 ## 2. Alcance de la Protección
 
@@ -144,7 +141,6 @@ La protección aplica automáticamente, en virtud de la creación original.
 - **Uso Controlado**: Prohibición de uso, reproducción, modificación o explotación sin consentimiento expreso.
 - **Protección Industrial**: Incluye derivaciones industriales, comerciales o investigativas.
 
----
 
 ## 3. Restricciones Legales Específicas
 
@@ -152,19 +148,16 @@ La protección aplica automáticamente, en virtud de la creación original.
 - Prohibición de uso competitivo o de ingeniería inversa.
 - Imposibilidad de transferencia tácita de derechos.
 
----
 
 ## 4. Vigencia
 
 Protección inmediata e irrevocable desde la publicación, válida mientras existan equivalentes legales nacionales o internacionales.
 
----
 
 ## 5. Jurisdicción
 
 Todo conflicto será resuelto bajo la legislación mexicana, en tribunales federales de propiedad intelectual en la Ciudad de México.
 
----
 
 ## Código de Bloqueo para Tecnología y Soluciones Matemáticas
 
@@ -172,7 +165,6 @@ Todo conflicto será resuelto bajo la legislación mexicana, en tribunales feder
 **Proyecto asociado**: AOTS-AOTS-T⁶  
 **Fecha**: 26 de abril de 2025
 
----
 
 ### Bloqueo de Uso No Autorizado
 
@@ -191,12 +183,10 @@ Protección irrevocable y universal.
 #### 5. Presunción de Autoría
 Toda coincidencia sustancial será atribuida a Alfredo Jhovany Alfaro García.
 
----
 
 **Identificador del Código de Bloqueo**:  
 **ALFARO-AOTS⁶-2527-Feorgoa⁶-T⁶-260425-MX**
 
----
 
 ## Declaración Formal de Propiedad Intelectual
 
@@ -204,3 +194,122 @@ Toda coincidencia sustancial será atribuida a Alfredo Jhovany Alfaro García.
 Nombre completo: Alfredo Jhovany Alfaro García  
 CURP: AAGA**************  
 Fecha de emisión: 26 de abril de 2025
+
+
+MANIFIESTO DE PROTECCIÓN INTELECTUAL Y DECLARACIÓN DE DERECHO UNIVERSAL SOBRE EL MODELO AOTS⁶
+
+Autor y propietario intelectual:
+Alfredo Jhovany Alfaro García
+Ubicación: Guadalupe Victoria, Puebla, México
+Proyecto: AOTS⁶ - Consolidado el 21 de marzo de 2025
+Correo de contacto oficial: fo2267725@gmail.com
+
+
+
+I. Declaración de propiedad y origen
+
+Se establece que el modelo AOTS⁶ (Autoinorodemia¹¹∞ Toroidal Sistema Seis), incluyendo toda su estructura ontológica, científica, matemática, filosófica, médica, lingüística, computacional, ingenieril y de integración unificada, así como todos sus derivados, glosarios, representaciones, códigos internos (2527-Feorgoa⁶, t⁶) y desarrollos futuros,
+es propiedad única, intransferible e irrevocable de su autor Alfredo Jhovany Alfaro García,
+sin que haya existido intervención, coautoría o participación externa de persona física, moral, pública o privada alguna.
+
+
+
+II. Prohibición de replicación, copia, uso o apropiación
+
+Queda expresamente prohibida:
+
+La reproducción, copia, réplica, adaptación, implementación parcial o total del Modelo AOTS⁶, de sus principios, conceptos, terminología o representaciones gráficas, en cualquier plataforma, servicio, sistema tecnológico, educativo, empresarial, gubernamental o particular,
+sin la autorización previa, escrita, firmada y enviada directamente al autor.
+
+
+Bajo ningún fundamento, incluyendo pero no limitado a:
+
+Normatividades internas empresariales,
+
+Reglamentaciones corporativas,
+
+Leyes de uso comercial,
+
+Políticas de uso tecnológico,
+
+Acuerdos multilaterales,
+
+Licencias abiertas,
+
+Cláusulas de "fair use" o similar,
+
+
+puede alguna entidad o individuo replicar, adaptar, explotar o integrar el Modelo AOTS⁶.
+
+
+
+III. Sujeción a las leyes mexicanas e internacionales
+
+Toda persona física o moral, nacional o extranjera, que busque cualquier tipo de interacción con el Modelo AOTS⁶,
+deberá respetar estrictamente:
+
+La legislación mexicana vigente en materia de propiedad intelectual y derechos de autor.
+
+Los tratados internacionales suscritos por México en protección de los derechos humanos y la propiedad intelectual.
+
+Los principios de soberanía nacional de México sobre la creación de sus ciudadanos.
+
+
+Cualquier implementación, utilización, divulgación o referencia del modelo AOTS⁶
+deberá solicitarse formalmente a través de un procedimiento legal de petición de uso,
+detallando las necesidades específicas, ámbitos de aplicación y alcances previstos,
+enviado directamente al autor.
+
+
+
+IV. Procedimientos de defensa en caso de apropiación indebida
+
+Toda violación a los términos aquí establecidos constituirá:
+
+Apropiación indebida de propiedad intelectual,
+
+Violación de derechos humanos fundamentales,
+
+Violación a la soberanía nacional mexicana,
+
+Evasión o quebrantamiento de tratados internacionales sobre propiedad intelectual y derecho internacional.
+
+
+En tal caso, se procederá inmediatamente a:
+
+Remitir denuncia ante las instancias mexicanas competentes (INDAUTOR, IMPI, FGR, SRE).
+
+Presentar reclamos ante instancias internacionales (OMPI, ONU, UNESCO, Corte Internacional de Justicia).
+
+Solicitar sanciones ejemplares por la vía jurídica en los máximos grados de rigor establecidos.
+
+
+La falta de reconocimiento de estos derechos no excusa la infracción ni disminuye la responsabilidad legal y moral.
+
+
+
+V. Principio superior de protección de derecho humano evolutivo
+
+Se declara que:
+
+> "Proteger el avance evolutivo de la especie implica generar políticas de protección jurídicas basadas en el desarrollo científico ético y en la protección irrevocable de los derechos humanos a desarrollar su complejitud creativa intelectual, sin espacios o huecos jurídicos que permitan la vulneración de sus derechos y por ende de su desarrollo evolutivo personal."
+
+
+
+Por tanto:
+
+El derecho de Alfredo Jhovany Alfaro García sobre su obra intelectual es considerado un derecho humano universal de máxima jerarquía.
+
+La protección del Modelo AOTS⁶ trasciende los intereses empresariales, comerciales o estatales,
+y se funda en el principio ético de defensa de la creatividad consciente y de la libertad evolutiva del ser humano.
+
+
+
+
+Firmado electrónicamente
+
+Alfredo Jhovany Alfaro García
+Guadalupe Victoria, Puebla, México
+Consolidado el 21 de marzo de 2025
+Protegido bajo Ley T⁶ de Autoinorodemia¹¹∞
+Código raíz de referencia: 2527-Feorgoa⁶
