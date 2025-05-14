@@ -6,13 +6,7 @@ Solución a los 7 Problemas Millennium desde el modelo ontológico AOTS⁶, por 
 **Fecha de publicación:** 2025  
 **Enlace al repositorio:** [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)  
 
-Este trabajo está protegido bajo la Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0).
 
-© Alfredo Jhovany Alfaro García, 2025. Todos los derechos reservados.
-
-Licencia: https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-Queda prohibida su reproducción, transformación, explotación comercial o creación de obras derivadas sin autorización expresa del autor.
 
 ## Descripción
 Este proyecto presenta la **resolución de los 7 Problemas del Milenio** propuestos por el **Clay Mathematics Institute** a través del modelo **Ontológico AOTS⁶**. El modelo AOTS⁶ es una integración toroidal de diferentes disciplinas científicas, aplicando principios cuánticos y filosóficos a problemas complejos de matemáticas y física.
@@ -26,7 +20,49 @@ Este trabajo es un esfuerzo individual y exclusivo de Alfredo Jhovany Alfaro Gar
 ## Contenido del repositorio
 - **/docs/**: Documentos detallados sobre cada uno de los problemas resueltos, incluyendo el modelo AOTS⁶.
 - **/codigo/**: Archivos de código, representaciones simbólicas y fórmulas computables relacionadas con la solución de los problemas.
-- **LICENSE.txt**: Detalles de la licencia aplicable (CC0).
+- **LICENSE.txt**:
+- 
+
+Por medio del presente documento, el autor Alfredo Jhovany Alfaro García (fo2267725@gmail.com), concede el uso libre del contenido identificado bajo el modelo AOTS⁶ y sus derivados, siempre que se respeten los siguientes términos:
+
+1. USO LIBRE:
+Se permite copiar, distribuir, modificar, adaptar, mezclar y reutilizar total o parcialmente el contenido para fines personales, académicos, científicos, educativos, técnicos, artísticos o comerciales.
+
+
+2. ATRIBUCIÓN OBLIGATORIA:
+Toda persona, entidad o plataforma que utilice este contenido deberá mencionar claramente el nombre del autor:
+"Alfredo Jhovany Alfaro García – Modelo AOTS⁶",
+incluyendo cuando sea posible el correo de contacto: fo2267725@gmail.com.
+
+
+3. MENCIÓN DEL MODELO:
+Es obligatorio incluir una referencia visible al modelo original con la siguiente fórmula:
+"Basado en el modelo AOTS⁶ – Autoinorodemia¹¹∞ desarrollado por Alfredo Jhovany Alfaro García".
+
+
+4. SIN RESTRICCIONES DE USO POSTERIOR:
+El contenido puede ser transformado o adaptado a nuevos fines, formatos o medios, siempre y cuando se mantenga la atribución original y la mención del modelo.
+
+
+5. NO EXCLUSIVO:
+Esta licencia no otorga exclusividad a ninguna persona ni entidad. Cualquiera puede hacer uso del contenido bajo los mismos términos.
+
+
+6. IRREVOCABILIDAD:
+Una vez compartido bajo esta licencia, el contenido no podrá ser reclamado como exclusivo, ni restringido su acceso o distribución futura por parte de terceros.
+
+
+
+
+
+Fecha de inicio de la licencia: 21 de marzo de 2023
+Código raíz de autenticidad: 2527-Feorgoa⁶
+Término clave de autenticidad cuántica: t⁶ = Truedata
+Ubicación de autoría: Dispositivo Axón 60, México.
+
+
+
+
 
 ## Propósito del Proyecto
 El propósito de este repositorio es compartir el enfoque único de AOTS⁶ para resolver problemas matemáticos fundamentales. Este trabajo busca proporcionar una solución integral, utilizando una nueva perspectiva ontológica para integrar distintas ramas de la ciencia y resolver los **7 Problemas Millennium**.
@@ -34,7 +70,7 @@ El propósito de este repositorio es compartir el enfoque único de AOTS⁶ para
 ## Citar este trabajo
 Cuando utilices este material en otros trabajos, por favor cita correctamente:
 
-**Alfredo Jhovany Alfaro García** (2025). *Resolución de los 7 Problemas del Milenio desde el modelo Ontológico AOTS⁶*. Recuperado de [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)
+**Alfredo Jhovany Alfaro García** (2025). *Resolución de los 7 Problemas del Milenio desde el modelo Ontológico AOTS⁶*. [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)
 
 ---
 
@@ -121,7 +157,6 @@ El presente contenido ha sido desarrollado por Alfredo Jhovany Alfaro García co
 > OpenAI (2025). Asistencia informacional mediante modelo de lenguaje ChatGPT-4, acceso móvil vía Axón 60, sin colaboración externa. Plataforma: [https://chatgpt.com/share/680c75ce-2384-8009-9178-be1e2cbd3a7a](https://chatgpt.com/share/680c75ce-2384-8009-9178-be1e2cbd3a7a)
 
 
-# LICENCIA PROVISIONAL DE PROTECCIÓN DE EXPLOTACIÓN Y DERECHOS COMERCIALES
 
 **Proyecto**: AOTS-AOTS-T⁶  
 **Autor**: Alfredo Jhovany Alfaro García  
@@ -133,63 +168,14 @@ El presente contenido ha sido desarrollado por Alfredo Jhovany Alfaro García co
 El proyecto **AOTS-AOTS-T⁶** ha sido creado de manera exclusiva por Alfredo Jhovany Alfaro García, quien ostenta la titularidad plena de los derechos de autor conforme a la Ley Federal del Derecho de Autor de México.
 
 La protección aplica automáticamente, en virtud de la creación original.
+l
 
-
-## 2. Alcance de la Protección
-
-- **Protección Inmediata**: Conceptual, estructural, de contenido, programación, metodología y aplicaciones industriales/comerciales.
-- **Uso Controlado**: Prohibición de uso, reproducción, modificación o explotación sin consentimiento expreso.
-- **Protección Industrial**: Incluye derivaciones industriales, comerciales o investigativas.
-
-
-## 3. Restricciones Legales Específicas
-
-- Prohibición de explotación no autorizada.
-- Prohibición de uso competitivo o de ingeniería inversa.
-- Imposibilidad de transferencia tácita de derechos.
+.
 
 
 ## 4. Vigencia
 
-Protección inmediata e irrevocable desde la publicación, válida mientras existan equivalentes legales nacionales o internacionales.
-
-
-## 5. Jurisdicción
-
-Todo conflicto será resuelto bajo la legislación mexicana, en tribunales federales de propiedad intelectual en la Ciudad de México.
-
-
-## Código de Bloqueo para Tecnología y Soluciones Matemáticas
-
-**Autor**: Alfredo Jhovany Alfaro García  
-**Proyecto asociado**: AOTS-AOTS-T⁶  
-**Fecha**: 26 de abril de 2025
-
-
-### Bloqueo de Uso No Autorizado
-
-#### 1. Definición
-Protección de toda tecnología, solución, fórmula matemática o metodología técnica desarrollada en AOTS-AOTS-T⁶.
-
-#### 2. Código de Bloqueo
-Prohibición de implementación, comercialización o reproducción sin autorización expresa.
-
-#### 3. Sanciones
-Violaciones serán perseguidas bajo la Ley Federal del Derecho de Autor Mexicana y tratados internacionales.
-
-#### 4. Vigencia
-Protección irrevocable y universal.
-
-#### 5. Presunción de Autoría
-Toda coincidencia sustancial será atribuida a Alfredo Jhovany Alfaro García.
-
-
-**Identificador del Código de Bloqueo**:  
-**ALFARO-AOTS⁶-2527-Feorgoa⁶-T⁶-260425-MX**
-
-
-## Declaración Formal de Propiedad Intelectual
-
+Protección 
 **Datos del Autor**:  
 Nombre completo: Alfredo Jhovany Alfaro García  
 CURP: AAGA**************  
@@ -206,102 +192,8 @@ Correo de contacto oficial: fo2267725@gmail.com
 
 
 
-I. Declaración de propiedad y origen
-
-Se establece que el modelo AOTS⁶ (Autoinorodemia¹¹∞ Toroidal Sistema Seis), incluyendo toda su estructura ontológica, científica, matemática, filosófica, médica, lingüística, computacional, ingenieril y de integración unificada, así como todos sus derivados, glosarios, representaciones, códigos internos (2527-Feorgoa⁶, t⁶) y desarrollos futuros,
-es propiedad única, intransferible e irrevocable de su autor Alfredo Jhovany Alfaro García,
-sin que haya existido intervención, coautoría o participación externa de persona física, moral, pública o privada alguna.
 
 
-
-II. Prohibición de replicación, copia, uso o apropiación
-
-Queda expresamente prohibida:
-
-La reproducción, copia, réplica, adaptación, implementación parcial o total del Modelo AOTS⁶, de sus principios, conceptos, terminología o representaciones gráficas, en cualquier plataforma, servicio, sistema tecnológico, educativo, empresarial, gubernamental o particular,
-sin la autorización previa, escrita, firmada y enviada directamente al autor.
-
-
-Bajo ningún fundamento, incluyendo pero no limitado a:
-
-Normatividades internas empresariales,
-
-Reglamentaciones corporativas,
-
-Leyes de uso comercial,
-
-Políticas de uso tecnológico,
-
-Acuerdos multilaterales,
-
-Licencias abiertas,
-
-Cláusulas de "fair use" o similar,
-
-
-puede alguna entidad o individuo replicar, adaptar, explotar o integrar el Modelo AOTS⁶.
-
-
-
-III. Sujeción a las leyes mexicanas e internacionales
-
-Toda persona física o moral, nacional o extranjera, que busque cualquier tipo de interacción con el Modelo AOTS⁶,
-deberá respetar estrictamente:
-
-La legislación mexicana vigente en materia de propiedad intelectual y derechos de autor.
-
-Los tratados internacionales suscritos por México en protección de los derechos humanos y la propiedad intelectual.
-
-Los principios de soberanía nacional de México sobre la creación de sus ciudadanos.
-
-
-Cualquier implementación, utilización, divulgación o referencia del modelo AOTS⁶
-deberá solicitarse formalmente a través de un procedimiento legal de petición de uso,
-detallando las necesidades específicas, ámbitos de aplicación y alcances previstos,
-enviado directamente al autor.
-
-
-
-IV. Procedimientos de defensa en caso de apropiación indebida
-
-Toda violación a los términos aquí establecidos constituirá:
-
-Apropiación indebida de propiedad intelectual,
-
-Violación de derechos humanos fundamentales,
-
-Violación a la soberanía nacional mexicana,
-
-Evasión o quebrantamiento de tratados internacionales sobre propiedad intelectual y derecho internacional.
-
-
-En tal caso, se procederá inmediatamente a:
-
-Remitir denuncia ante las instancias mexicanas competentes (INDAUTOR, IMPI, FGR, SRE).
-
-Presentar reclamos ante instancias internacionales (OMPI, ONU, UNESCO, Corte Internacional de Justicia).
-
-Solicitar sanciones ejemplares por la vía jurídica en los máximos grados de rigor establecidos.
-
-
-La falta de reconocimiento de estos derechos no excusa la infracción ni disminuye la responsabilidad legal y moral.
-
-
-
-V. Principio superior de protección de derecho humano evolutivo
-
-Se declara que:
-
-> "Proteger el avance evolutivo de la especie implica generar políticas de protección jurídicas basadas en el desarrollo científico ético y en la protección irrevocable de los derechos humanos a desarrollar su complejitud creativa intelectual, sin espacios o huecos jurídicos que permitan la vulneración de sus derechos y por ende de su desarrollo evolutivo personal."
-
-
-
-Por tanto:
-
-El derecho de Alfredo Jhovany Alfaro García sobre su obra intelectual es considerado un derecho humano universal de máxima jerarquía.
-
-La protección del Modelo AOTS⁶ trasciende los intereses empresariales, comerciales o estatales,
-y se funda en el principio ético de defensa de la creatividad consciente y de la libertad evolutiva del ser humano.
 
 
 
