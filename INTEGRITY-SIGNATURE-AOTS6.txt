@@ -1,0 +1,18 @@
+# Firma de Integridad AOTS⁶
+
+Repositorio: AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO  
+Autor: Alfredo Jhovany Alfaro García  
+Fecha: 14/05/2025 
+Código raíz: 2527-Feorgoa⁶  
+Versión del contenido: Inicial / V1
+
+SHA-256 HASH:
+Oxe5178f9ceb3145eb..........
+
+Esta firma representa la huella digital inalterable del repositorio al momento de su consolidación pública.
+
+Cualquier cambio posterior generará un hash distinto.
+
+Autenticidad protegida bajo derechos internacionales y principios AOTS⁶.
+
+Correo de verificación: fo2267725@gmail.com
