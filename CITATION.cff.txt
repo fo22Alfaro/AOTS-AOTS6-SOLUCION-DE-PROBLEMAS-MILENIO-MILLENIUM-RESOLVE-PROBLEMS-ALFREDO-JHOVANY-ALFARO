@@ -9,4 +9,4 @@ version: "1.0.0"
 date-released: 2025-04-19
 url: "https://github.com/fo22Alfaro/resolucion-millennium-aots6"
 repository-code: "https://github.com/fo22Alfaro/resolucion-millennium-aots6"
-license: "CC0-1.0"
+license: "Personalizada"
