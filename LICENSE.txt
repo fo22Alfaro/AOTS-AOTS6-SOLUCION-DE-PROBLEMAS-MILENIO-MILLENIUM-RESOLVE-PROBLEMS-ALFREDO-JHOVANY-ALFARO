@@ -6,7 +6,8 @@
 **Código Cuántico Raíz**: 2527-Feorgoa⁶ 2727feogoa  
 **Término Base de Validación**: t⁶ = Truedata
 
----
+
+LICENCIA CC BY SA 
 
 ## 1. Objetivo del Documento
 
@@ -95,60 +96,11 @@ La protección aplica automáticamente, en virtud de la creación original.
 
 ---
 
-## 2. Alcance de la Protección
-
-- **Protección Inmediata**: Conceptual, estructural, de contenido, programación, metodología y aplicaciones industriales/comerciales.
-- **Uso Controlado**: Prohibición de uso, reproducción, modificación o explotación sin consentimiento expreso.
-- **Protección Industrial**: Incluye derivaciones industriales, comerciales o investigativas.
-
----
-
-## 3. Restricciones Legales Específicas
-
-- Prohibición de explotación no autorizada.
-- Prohibición de uso competitivo o de ingeniería inversa.
-- Imposibilidad de transferencia tácita de derechos.
-
----
-
-## 4. Vigencia
-
-Protección inmediata e irrevocable desde la publicación, válida mientras existan equivalentes legales nacionales o internacionales.
-
----
-
-## 5. Jurisdicción
-
-Todo conflicto será resuelto bajo la legislación mexicana, en tribunales federales de propiedad intelectual en la Ciudad de México.
-
----
-
-## Código de Bloqueo para Tecnología y Soluciones Matemáticas
 
 **Autor**: Alfredo Jhovany Alfaro García  
 **Proyecto asociado**: AOTS-AOTS-T⁶  
 **Fecha**: 26 de abril de 2025
 
----
-
-### Bloqueo de Uso No Autorizado
-
-#### 1. Definición
-Protección de toda tecnología, solución, fórmula matemática o metodología técnica desarrollada en AOTS-AOTS-T⁶.
-
-#### 2. Código de Bloqueo
-Prohibición de implementación, comercialización o reproducción sin autorización expresa.
-
-#### 3. Sanciones
-Violaciones serán perseguidas bajo la Ley Federal del Derecho de Autor Mexicana y tratados internacionales.
-
-#### 4. Vigencia
-Protección irrevocable y universal.
-
-#### 5. Presunción de Autoría
-Toda coincidencia sustancial será atribuida a Alfredo Jhovany Alfaro García.
-
----
 
 **Identificador del Código de Bloqueo**:  
 **ALFARO-AOTS⁶-2527-Feorgoa⁶-T⁶-260425-MX**
