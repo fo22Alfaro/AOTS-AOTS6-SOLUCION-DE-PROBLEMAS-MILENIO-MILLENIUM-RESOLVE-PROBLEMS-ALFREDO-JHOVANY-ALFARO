@@ -22,34 +22,70 @@ Este trabajo es un esfuerzo individual y exclusivo de Alfredo Jhovany Alfaro Gar
 - **/codigo/**: Archivos de código, representaciones simbólicas y fórmulas computables relacionadas con la solución de los problemas.
 - **LICENSE.txt**:
 - 
+# LICENCIA PERSONALIZADA AOTS⁶ - Creative Commons Divulgación Controlada
 
-Por medio del presente documento, el autor Alfredo Jhovany Alfaro García (fo2267725@gmail.com), concede el uso libre del contenido identificado bajo el modelo AOTS⁶ y sus derivados, siempre que se respeten los siguientes términos:
+**Modelo Registrado:** AOTS⁶ (Autoinorodemia¹¹∞ Toroidal Integrado)  
+**Autor Exclusivo:** Alfredo Jhovany Alfaro García  
+**Correo Oficial de Autoría:** fo2267725@gmail.com  
+**Código Cuántico Raíz del Modelo:** 2527-Feorgoa⁶  
+**Referencia de Veracidad:** t⁶ = Truedata  
+**Fecha de Origen del Modelo:** 21 de marzo de 2023  
+**Dispositivo de Registro:** Axón 60  
 
-1. USO LIBRE:
-Se permite copiar, distribuir, modificar, adaptar, mezclar y reutilizar total o parcialmente el contenido para fines personales, académicos, científicos, educativos, técnicos, artísticos o comerciales.
+---
 
+## Declaración Legal y Ética
 
-2. ATRIBUCIÓN OBLIGATORIA:
+Este modelo, junto con sus documentos, métodos, códigos, gráficos, análisis, estructuras, manifiestos y lenguaje estructural, ha sido desarrollado íntegramente por el autor **Alfredo Jhovany Alfaro García**, sin colaboración externa ni institucional. Se protege bajo:
+
+- Leyes de propiedad intelectual nacionales e internacionales.  
+- Derechos humanos fundamentales (incluido el derecho a la creación intelectual individual).  
+- Principios éticos universales y estructuras inalienables de autoría original.  
+
+---
+
+## Condiciones de Uso y Divulgación
+
+### Permitido únicamente bajo las siguientes condiciones:
+
+1. **Divulgación Académica Limitada**  
+   Se permite la lectura, análisis y uso **únicamente con fines académicos, científicos o de estudio**, sin alteraciones ni fragmentaciones del contenido.
+
+2. **Problemas del Milenio**  
+   Las **resoluciones propuestas en este modelo respecto a los Problemas del Milenio (Millennium Problems)** son **de libre acceso público exclusivamente con fines educativos**.  
+   **Toda interpretación, método, lenguaje técnico o demostración asociada al modelo AOTS⁶ que se relacione con estos problemas sigue estando protegida integralmente por esta licencia.**
+
+3. **Prohibiciones Específicas**
+   - No se permite ninguna reutilización, publicación comercial, institucional o industrial sin **consentimiento escrito del autor.**
+   - No está permitido modificar, reinterpretar, traducir o derivar materiales del modelo AOTS⁶ sin la autorización expresa del autor.
+   - No puede usarse este contenido como base de sistemas de IA, proyectos de ingeniería, documentos institucionales, patentes, ni desarrollos tecnológicos sin aprobación formal.
+
+4. **Atribución Obligatoria**
+   Toda mención, cita o referencia debe contener:
+   - Nombre completo: **Alfredo Jhovany Alfaro García**
+   - Código raíz: **2527-Feorgoa⁶**
+   - Repositorio: [https://github.com/fo22Alfaro/AOTS-AOTS6...](https://github.com/fo22Alfaro/AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO-MILLENIUM-RESOLVE-PROBLEMS-ALFREDO-JHOVANY-ALFARO)
+
+---
+
+## Protección Integral del Modelo AOTS⁶
+
+Todo el contenido del modelo AOTS⁶, incluyendo sus fundamentos técnicos, filosóficos, médicos, lingüísticos y ontológicos, está **protegido bajo tratados internacionales de derechos de autor**, y respaldado como **expresión individual intransferible** del autor.
+
+Su divulgación parcial o total sin permiso constituirá una violación legal y ética, y se considerará atentado contra la integridad intelectual y estructural del modelo.
+
+---
+
+**Este documento constituye prueba pública de intención de protección, autoría exclusiva e inviolabilidad del Modelo AOTS⁶. Su vigencia es permanente e inmediata desde el momento de la primera lectura, acceso o descarga.**
+ ATRIBUCIÓN OBLIGATORIA:
 Toda persona, entidad o plataforma que utilice este contenido deberá mencionar claramente el nombre del autor:
 "Alfredo Jhovany Alfaro García – Modelo AOTS⁶",
 incluyendo cuando sea posible el correo de contacto: fo2267725@gmail.com.
 
-
-3. MENCIÓN DEL MODELO:
+ MENCIÓN DEL MODELO:
 Es obligatorio incluir una referencia visible al modelo original con la siguiente fórmula:
 "Basado en el modelo AOTS⁶ – Autoinorodemia¹¹∞ desarrollado por Alfredo Jhovany Alfaro García".
 
-
-4. SIN RESTRICCIONES DE USO POSTERIOR:
-El contenido puede ser transformado o adaptado a nuevos fines, formatos o medios, siempre y cuando se mantenga la atribución original y la mención del modelo.
-
-
-5. NO EXCLUSIVO:
-Esta licencia no otorga exclusividad a ninguna persona ni entidad. Cualquiera puede hacer uso del contenido bajo los mismos términos.
-
-
-6. IRREVOCABILIDAD:
-Una vez compartido bajo esta licencia, el contenido no podrá ser reclamado como exclusivo, ni restringido su acceso o distribución futura por parte de terceros.
 
 
 
@@ -184,10 +220,6 @@ Alfredo Jhovany Alfaro García
 Ubicación: Guadalupe Victoria, Puebla, México
 Proyecto: AOTS⁶ - Consolidado el 21 de marzo de 2025
 Correo de contacto oficial: fo2267725@gmail.com
-
-
-
-
 
 
 
