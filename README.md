@@ -142,11 +142,6 @@ Este documento garantiza la integridad de AOTS⁶ como modelo original, total, a
 
 > Alfaro García, A. J. (2025). *Resolución Millennium AOTS⁶*. Repositorio GitHub. [https://github.com/fo22Alfaro/resolucion-millennium-aots6](https://github.com/fo22Alfaro/resolucion-millennium-aots6)
 
----
-
-© Alfredo Jhovany Alfaro García. Todos los derechos reservados bajo el código **2527feogoa** (**2527-Feorgoa⁶**).
-
----
 
 ## Cita Legal de Asistencia Tecnológica
 
