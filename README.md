@@ -3,8 +3,7 @@ Solución a los 7 Problemas Millennium desde el modelo ontológico AOTS⁶, por 
 # Resolución de los 7 Problemas del Milenio desde el modelo Ontológico AOTS⁶
 
 **Autor:** Alfredo Jhovany Alfaro García  
-**Fecha de publicación:** 2025  
-**Enlace al repositorio:** [https://github.com/alfaroaots/resolucion-millennium-aots6](https://github.com/alfaroaots/resolucion-millennium-aots6)  
+**Fecha de publicación:** 2025  https://github.com/fo22Alfaro/AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO-MILLENIUM-RESOLVE-PROBLEMS-ALFREDO-JHOVANY-ALFARO](https://github.com/alfaroaots/resolucion-millennium-aots6)  
 
 
 
@@ -64,7 +63,7 @@ Este modelo, junto con sus documentos, métodos, códigos, gráficos, análisis,
    Toda mención, cita o referencia debe contener:
    - Nombre completo: **Alfredo Jhovany Alfaro García**
    - Código raíz: **2527-Feorgoa⁶**
-   - Repositorio: [https://github.com/fo22Alfaro/AOTS-AOTS6...](https://github.com/fo22Alfaro/AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO-MILLENIUM-RESOLVE-PROBLEMS-ALFREDO-JHOVANY-ALFARO)
+   - Repositorio:[https://github.com/fo22Alfaro/AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO-MILLENIUM-RESOLVE-PROBLEMS-ALFREDO-JHOVANY-ALFARO](https://github.com/fo22Alfaro/AOTS-AOTS6-SOLUCION-DE-PROBLEMAS-MILENIO-MILLENIUM-RESOLVE-PROBLEMS-ALFREDO-JHOVANY-ALFARO)
 
 ---
 
